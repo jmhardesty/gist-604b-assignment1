@@ -2,6 +2,7 @@
 GIST 604B Assignment 1: GitHub Repository Management
 
 **Student:** Joanna Hardesty 
+
 Course: GIST 604B - Open Source GIS  
 Module 1: Open Source Infrastructure & Workflows  
 Assignment 1: GitHub Repository Management  
