@@ -20,6 +20,7 @@ def main():
 quantifying distributions of features on planets and moons in our Solar \
 System such as volcanoes (and larger volcanic features), dunes, ice \
 deposits, etc!")
+    print('Updated in Codespaces')
 
 if __name__ == "__main__":
     main()
